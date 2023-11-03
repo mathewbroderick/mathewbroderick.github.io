@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<img src="https://i.imgur.com/612Gt06.jpg" align="left" width="200" alt="me at the japanese gardens">I'm Alexandria, my friends call me Alex. I'm a Master's candidate at the Oregon State Botany and Plant Pathology department, currently residing in Albany, Oregon. I'm an amateur artist (martial and visual), writer, programmer, and a pretty damn good cook. I'm decent at gardening as well. I own one mutt dog named Allie who is the light of my life and my best friend. This is a website meant to be a collection of my thoughts and projects, we'll see how well I stick to that goal.<br>
+<img src="https://i.imgur.com/612Gt06.jpg" align="left" width="200" alt="me at the japanese gardens">I'm Alexandria, my friends call me Alex. I'm a Master's student at the Oregon State Botany and Plant Pathology department, currently residing in Albany, Oregon. I'm an amateur artist (martial and visual), writer, programmer, and a pretty damn good cook. I'm decent at gardening as well. I own one mutt dog named Allie who is the light of my life and my best friend. This is a website meant to be a collection of my thoughts and projects, we'll see how well I stick to that goal.<br>
 
 I was born May 9th, 1997 in the small town of Livingston, Montana in Park County. My father, James Otto Boyle, passed a few months after I was born in October of 1997. Soon after, my mother converted to Fundamentalist Christianity, and decided me and my three younger half-brothers should be homeschooled. I left home at 18 and moved to Bozeman, took a few years to learn how to be a human being, and received my GED in 2019, when I was 22. I started college at Montana State the fall afterwards, recieving my Bachelor's degree in Plant Biology May of 2023.<br>
 
@@ -26,6 +26,8 @@ My visual art gallery can be viewed [here](https://imgur.com/a/4ox4bzM).<br>
 
 <h1>SO WHAT DO YOU LIKE?</h1>
 
+If you want to know way too much about my interests: here's my [letterboxd](https://letterboxd.com/mathewbroderick/), my [spotify](https://open.spotify.com/user/strawberrybacon), and my [storygraph](https://app.thestorygraph.com/profile/mathewbroderick) accounts. I'm sorry.
+
 This is a collection of cool stuff I've found over the years. It's very disorganized. **LAST UPDATED: 10/29/23**<br>
 
 <a href="http://www.botanicalaccuracy.com/">The Botanical Accuracy site</a> - a blog listing common botanical faults in media etc. It's a pretty neat read.<br>
@@ -45,3 +47,5 @@ This is a collection of cool stuff I've found over the years. It's very disorgan
 <a href="https://www.swsbm.com/HOMEPAGE/HomePage.html">Michael Moore's Herbalism</a> - bunch of herbalism resources  <br>
 
 <a href="https://www.youtube.com/watch?v=oG2I17Zm8kI&list=PLOl74FWb3AyCuOeZeUOmSNoQE8h71-uA7">coding</a> - uh, here's my coding playlist. it's bad.
+
+<a href="https://www.youtube.com/user/raocow/videos">raocow</a> - a little know let's player that I've been watching for the better part of a decade

@@ -49,3 +49,5 @@ This is a collection of cool stuff I've found over the years. It's very disorgan
 <a href="https://www.youtube.com/watch?v=oG2I17Zm8kI&list=PLOl74FWb3AyCuOeZeUOmSNoQE8h71-uA7">coding</a> - uh, here's my coding playlist. it's bad.
 
 <a href="https://www.youtube.com/user/raocow/videos">raocow</a> - a little know let's player that I've been watching for the better part of a decade
+
+<a href="https://cyberdeck.cafe/">cyberdeck cafe</a> - one day i'll get around to building one of these

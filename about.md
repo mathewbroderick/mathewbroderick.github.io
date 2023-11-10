@@ -53,3 +53,5 @@ This is a collection of cool stuff I've found over the years. It's very disorgan
 <a href="https://cyberdeck.cafe/">cyberdeck cafe</a> - one day i'll get around to building one of these
 
 <a href="https://sylvie.website/">Sylvie</a> - one of my favorite indie game devs (cat planet!)
+
+<a href="https://antisoftware.club/">anti software software club</a> - making social media a lil better

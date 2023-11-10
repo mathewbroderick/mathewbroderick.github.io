@@ -51,3 +51,5 @@ This is a collection of cool stuff I've found over the years. It's very disorgan
 <a href="https://www.youtube.com/user/raocow/videos">raocow</a> - a little know let's player that I've been watching for the better part of a decade
 
 <a href="https://cyberdeck.cafe/">cyberdeck cafe</a> - one day i'll get around to building one of these
+
+<a href="https://sylvie.website/">Sylvie</a> - one of my favorite indie game devs (cat planet!)

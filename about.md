@@ -22,13 +22,15 @@ I know I make posts on here, but my more personal blog is [here](https://alexand
 
 My visual art gallery can be viewed [here](https://imgur.com/a/4ox4bzM).<br>
 
+You can see my absolute garbage photography [here](https://www.flickr.com/photos/202656842@N07/).
+
 **IMPORTANT!** You can view images of my perfect, sweet dog Allie [here](https://imgur.com/a/gcKJoUR). You're welcome<br>
 
 <h1>SO WHAT DO YOU LIKE?</h1>
 
 If you want to know way too much about my interests: here's my [letterboxd](https://letterboxd.com/mathewbroderick/), my [spotify](https://open.spotify.com/user/strawberrybacon), and my [storygraph](https://app.thestorygraph.com/profile/mathewbroderick) accounts. I'm sorry.
 
-This is a collection of cool stuff I've found over the years. It's very disorganized. **LAST UPDATED: 10/29/23**<br>
+This is a collection of cool stuff I've found over the years. It's very disorganized. **LAST UPDATED: 4/21/25**<br>
 
 <a href="http://www.botanicalaccuracy.com/">The Botanical Accuracy site</a> - a blog listing common botanical faults in media etc. It's a pretty neat read.<br>
 
@@ -55,3 +57,7 @@ This is a collection of cool stuff I've found over the years. It's very disorgan
 <a href="https://sylvie.website/">Sylvie</a> - one of my favorite indie game devs (cat planet!)
 
 <a href="https://antisoftware.club/">anti software software club</a> - making social media a lil better
+
+<a href="https://www.youtube.com/watch?v=47nw3d05fUU">MARIO CARS 2 THE BALLAD OF FAST PART ONE THE TRUTH OF BEAUTIFUL SPEED</a>
+
+<a href="https://www.treesaregood.org/Portals/0/TreesAreGood_Why%20Topping%20Hurts_0321.pdf">why topping hurts trees</a>
